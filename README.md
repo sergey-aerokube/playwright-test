@@ -1,4 +1,4 @@
-# Test playwrite for moon-cloud
+# Test playwright for moon-cloud
 
 ### TL;DR
 ```
